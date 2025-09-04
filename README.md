@@ -1,3 +1,5 @@
+#Amazon sales report
+
 🔹 Objective
 The aim of this analysis was to explore Amazon product sales and reviews data to uncover patterns in pricing, discounts, customer ratings, and product categories. By cleaning and analyzing the dataset, I wanted to generate actionable insights that could help understand customer preferences and product performance.
 
